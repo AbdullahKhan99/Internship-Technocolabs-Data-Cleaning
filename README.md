@@ -1,1 +1,1 @@
-# Kaggle-Tutorials-Internship-Technocolabs
+# Internship-Technocolabs-Data-Cleaning
